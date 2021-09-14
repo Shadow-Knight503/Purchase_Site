@@ -1,4 +1,3 @@
-
 import os.path
 import django_heroku
 from pathlib import Path
@@ -16,7 +15,7 @@ SECRET_KEY = 'django-insecure-n*cc5vpx0c3g@4apk%1_r+h+1q9rnwjp-_=e_#&sf8$84=4t%v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1', 'site-buy.herokuapp.com']
 
 # Application definition
 
