@@ -1,1 +1,1 @@
-web: gunicorn --chdir Purchase_Site.wsgi
+web: gunicorn Purchase_Site.wsgi
