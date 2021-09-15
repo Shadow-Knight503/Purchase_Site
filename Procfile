@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath Purchase_Site web.wsgi
+web: gunicorn --pythonpath Purchase_Site App_1.wsgi
