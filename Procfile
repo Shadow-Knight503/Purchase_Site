@@ -1,1 +1,1 @@
-web: gunicorn Site_Buy.wsgi --log-file -
+web: gunicorn site-buy.wsgi --log-file -
